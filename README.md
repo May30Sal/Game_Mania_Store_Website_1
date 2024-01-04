@@ -12,6 +12,7 @@ The goal of this project is to create a website for a fictitious store and demon
 - [ ] Apply features with Javascript to other pages
 - [ ] Improve page functionality using Jquery
 - [ ] Host the index(home) page on Github pages
+- [ ] Improve the website using API's
 
 ### 💻Tools used
 - HTML5
@@ -36,6 +37,7 @@ O objetivo deste projeto é criar um website para uma loja fictícia e particar 
 - [ ] Aplicar funcionalidades com Javascript nas demais páginas
 - [ ] Aprimorar funcinalidades das páginas utilizando Jquery
 - [ ] Hospedar a página index(home) no Github pages
+- [ ] Aprimorar o website utilizando API's
 
 ### 💻Tecnologias
 - HTML5
