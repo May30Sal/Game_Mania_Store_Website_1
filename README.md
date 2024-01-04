@@ -13,7 +13,7 @@ The goal of this project is to create a website for a fictitious store and demon
 - [ ] Improve page functionality using Jquery
 - [ ] Host the index(home) page on Github pages
 
-### 💻Tecnologias
+### 💻Tools used
 - HTML5
 - CSS3
 
